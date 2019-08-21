@@ -1,0 +1,203 @@
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+
+
+#mainNavBar .nav-link { 
+	color: black;
+}
+
+#mainNavBar .nav-link:hover { 
+	color: #black;
+}
+
+#mainNavBar .navbar-brand {
+	color: #black;
+	font-size: 1.5rem;
+}
+
+#headingGroup span {
+	color: #gold;
+}
+
+#headingGroup h1 {
+	font-weight: 100;
+	font-size: 4rem;
+}
+
+
+.navbar.scrolled {
+background: hsl(0, 100%, 75%);
+transition: background 1s;
+}
+
+
+
+body {
+	background: #white;
+	font-family: "Nunito", sans-serif;
+}
+
+.about {
+	background-image: url("imgs/mountains.jpg");
+	background-repeat: no-repeat;
+}
+
+
+html {
+	height: 100%;
+}
+
+hr {
+width: 400px;
+color: white;
+}
+
+.quote {
+border-left: 5px solid #bdc3c7;
+padding-left: 25px;
+}
+
+.date {
+color: red;
+text-transform: uppercase;
+letter-spacing: 0.2rem;
+}
+
+
+.blurb h2 {
+	color: #tomato;
+	font-weight: 100;
+	font-size: 2.5rem;
+}
+
+
+
+.blurb p {
+	color: #257899;
+	font-weight: 100;
+	font-size: 1.125rem;
+	line-height: 2;
+}
+
+
+.content {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+#content {
+text-align:center;
+padding-top: 25%;
+text-shadow: 0px 4px 3px rgba(0, 0,0,0.4),
+		0px 8px 13px rgba(0,0,0.1),
+		0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.jumbotron {
+color: grayscale;
+}
+
+
+.blackgroundpicture {
+	background-image: url("images/mountains.jpg");
+	background-repeat: no=repeat;
+	background-attachment: fixed;}
+
+
+.post {
+margin-bottom: 15px;
+}
+
+
+
+
+
+h1, h2 {
+	text-transform: uppercase;
+	letter-spacing: 0.4eml}
+
+h2 {
+	padding-top: 40px;
+}
+
+
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+
+
+
+
+.responsive {
+	padding: 0 6px;
+	float: left;
+	width: 24.9999%;
+}
+
+
+
+
+
+
+@media (max-width: 1200px) {
+	#headingGroup h1 {
+	font-weight: 100;
+	font-size: 3rem;
+}
+
+
+</style>
+</head>
+<body>
+
